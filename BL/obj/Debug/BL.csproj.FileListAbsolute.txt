@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\ATTA3\BL\bin\Debug\BL.dll
+C:\Users\asus\source\repos\ATTA3\BL\bin\Debug\BL.pdb
+C:\Users\asus\source\repos\ATTA3\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\ATTA3\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ATTA3\BL\obj\Debug\BL.dll
+C:\Users\asus\source\repos\ATTA3\BL\obj\Debug\BL.pdb
