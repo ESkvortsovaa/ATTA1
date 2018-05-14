@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{64068E85-DE77-4D72-BFCB-87B09C1693E8}</ProjectGuid>
+    <ProjectGuid>{E38C7BF3-DBD1-4F1B-A3C2-29B57BF3C0D9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>_1._1._26</RootNamespace>
     <AssemblyName>1.1.26</AssemblyName>
@@ -34,8 +34,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.IO.Compression.FileSystem" />
-    <Reference Include="System.IO.Log" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -82,7 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BL\BL.csproj">
-      <Project>{5334cce8-6aea-4713-b33b-660f0aa7c16b}</Project>
+      <Project>{614827dc-e2a4-4b10-b05a-57c921acea2c}</Project>
       <Name>BL</Name>
     </ProjectReference>
   </ItemGroup>

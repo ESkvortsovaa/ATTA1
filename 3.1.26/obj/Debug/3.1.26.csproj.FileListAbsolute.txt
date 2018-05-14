@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\2SATTA1\3.1.26\bin\Debug\3.1.26.exe.config
+C:\Users\asus\source\repos\2SATTA1\3.1.26\bin\Debug\3.1.26.exe
+C:\Users\asus\source\repos\2SATTA1\3.1.26\bin\Debug\3.1.26.pdb
+C:\Users\asus\source\repos\2SATTA1\3.1.26\bin\Debug\BL.dll
+C:\Users\asus\source\repos\2SATTA1\3.1.26\bin\Debug\BL.pdb
+C:\Users\asus\source\repos\2SATTA1\3.1.26\obj\Debug\3.1.26.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\2SATTA1\3.1.26\obj\Debug\_3._1._26.Form1.resources
+C:\Users\asus\source\repos\2SATTA1\3.1.26\obj\Debug\_3._1._26.Properties.Resources.resources
+C:\Users\asus\source\repos\2SATTA1\3.1.26\obj\Debug\3.1.26.csproj.GenerateResource.Cache
+C:\Users\asus\source\repos\2SATTA1\3.1.26\obj\Debug\3.1.26.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\2SATTA1\3.1.26\obj\Debug\3.1.26.exe
+C:\Users\asus\source\repos\2SATTA1\3.1.26\obj\Debug\3.1.26.pdb

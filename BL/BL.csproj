@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5334CCE8-6AEA-4713-B33B-660F0AA7C16B}</ProjectGuid>
+    <ProjectGuid>{614827DC-E2A4-4B10-B05A-57C921ACEA2C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BL</RootNamespace>
@@ -40,8 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Numbers.cs" />
+    <Compile Include="Delete.cs" />
+    <Compile Include="FileWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SortStudents.cs" />
+    <Compile Include="stringArr.cs" />
+    <Compile Include="Student.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
